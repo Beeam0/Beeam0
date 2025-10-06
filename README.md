@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>PowerShell</b>
+
   
     <h2> Certifications </h2>
 
